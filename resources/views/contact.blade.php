@@ -7,6 +7,6 @@
         <title>Laravel</title>
     </head>
     <body>
-        <h1>This is from Home Page</h1>
+        <h1>This is from contact page</h1>
     </body>
 </html>
